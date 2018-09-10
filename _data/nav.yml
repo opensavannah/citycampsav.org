@@ -13,11 +13,13 @@
 - name: Sponsor
   path: '#contact_us'
   section_id: sponsor
-- name: Pages
+- name: More
   path: '#'
   section_id: Participate
   children:
-    - name: About
+    - name: Submit a Talk for CityCamp
       path: about/
-    - name: Submit Talk
+    - name: Vote on CityCamp Topics
       path: submit-talk/
+    - name: Sign up for the CityCamp Steering Committee
+      path: steering-committee/
