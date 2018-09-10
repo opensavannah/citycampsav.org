@@ -7,18 +7,16 @@
 - name: Agenda
   path: '#schedule'
   section_id: agenda
-- name: Participate
-  path: '#schedule'
-  section_id: Participate
 - name: Sponsor
   path: '#contact_us'
   section_id: sponsor
+- name: Volunteer
+  path: '/about/'
+  section_id: planning  
 - name: More
   path: '#'
   section_id: Participate
   children:
-    - name: Help plan CityCamp
-      path: about/
     - name: Submit a Talk for CityCamp
       path: submit-talk/
     - name: Sign up for the CityCamp Steering Committee
