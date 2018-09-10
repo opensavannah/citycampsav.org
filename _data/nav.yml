@@ -8,7 +8,7 @@
   path: '#schedule'
   section_id: agenda
 - name: Sponsor
-  path: '#contact_us'
+  path: '#pricing'
   section_id: sponsor
 - name: Volunteer
   path: '/about/'
