@@ -1,21 +1,23 @@
 - name: Home
-  path: "#banner"
+  path: '#banner'
   section_id: home
 - name: About
-  path: "#event_info"
+  path: '#event_info'
   section_id: about
 - name: Agenda
-  path: "#schedule"
+  path: '#schedule'
   section_id: agenda
 - name: Participate
-  path: "#schedule"
+  path: '#schedule'
   section_id: Participate
 - name: Sponsor
-  path: "#contact_us"
+  path: '#contact_us'
   section_id: sponsor
 - name: Pages
-  path: "#"
+  path: '#'
   section_id: Participate
   children:
     - name: About
       path: about/
+    - name: Submit a Session Talk
+      path:
