@@ -5,7 +5,7 @@ description: Have an issue on your mind you'd like to lead a discussion on? Subm
 permalink: /submit-talk/
 slides:
   heading: "Submit a Breakout Talk for CityCamp"
-  subHeading: "Imagine if residents and city leaders ever got to have a real discussion."
+  subHeading: "Be on the agenda. Pitch your talk for how the City of Savannah might prioritize its municipal funds in the coming fiscal years."
 ---
 {% include header.html %}
 {% include banner.html %}
