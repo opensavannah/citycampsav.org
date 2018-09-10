@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Submit a talk for a Breakout Session at CityCamp
 description: Have an issue on your mind you'd like to lead a discussion on? Submit it here!
 keywords: citycamp
