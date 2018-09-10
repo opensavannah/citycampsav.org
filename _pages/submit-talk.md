@@ -4,6 +4,9 @@ title: Submit a talk for a Breakout Session at CityCamp
 description: Have an issue on your mind you'd like to lead a discussion on? Submit it here!
 permalink: /submit-talk/
 ---
+{% include header.html %}
+{% include banner.html %}
+{% include our-company.html %}
 
 ### Criteria for Breakout Session Talks
 
