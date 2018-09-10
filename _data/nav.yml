@@ -17,7 +17,7 @@
   path: '#'
   section_id: Participate
   children:
-   - name: Help plan CityCamp
+    - name: Help plan CityCamp
       path: about/
     - name: Submit a Talk for CityCamp
       path: submit-talk/
