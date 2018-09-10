@@ -6,7 +6,6 @@ permalink: /submit-talk/
 ---
 {% include header.html %}
 {% include banner.html %}
-{% include our-company.html %}
 
 ### Criteria for Breakout Session Talks
 
