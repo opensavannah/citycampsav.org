@@ -20,4 +20,4 @@
     - name: About
       path: about/
     - name: Submit Talk
-      path:
+      path: submit-talk/
