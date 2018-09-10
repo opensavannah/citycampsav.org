@@ -7,6 +7,8 @@ permalink: /submit-talk/
 {% include header.html %}
 {% include banner.html %}
 
+<br>
+
 ### Criteria for Breakout Session Talks
 
 All breakout talks *must* adhere to the CityCamp <a href="https://www.notion.so/citycampsav/Full-Official-Rules-of-Engagement-33710a6c3b4e4eb3a2a866030c1cd73a">Rules of Engagement</a> in order to be considered for acceptance.
