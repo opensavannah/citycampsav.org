@@ -1,9 +1,30 @@
-sectionHeading: "Frequently Asked Questions"
-desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer"
+sectionHeading: Frequently Asked Questions
+desc: >-
+  Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+  when an unknown printer
 questionAnswer:
-  - q: What is Lorem Ipsum?
-    a: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages"	
-  - q:  Why do we use it?
-    a: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy."
+  - q: Who's paying for CityCamp?
+    a: >-
+      OpenSavannah, an all-volunteer civic organization dedicated to making
+      local government work in the 21st century,  is hosting CityCamp as its
+      seminal fall civic engagement event. While in-kind use of Savannah Civic
+      Center and a small amount of grant money is being provided by the City of
+      Savannah Government, CityCamp is entirely autonomous from the City itself,
+      and seeks to establish itself as a neutral, safe-space for city and
+      citizens to have productive dialogue focused on the future of Savannah.
+  - q: Are the age requirements to participate?
+    a: >-
+      Absolutely not! All ages are invited to attend, especially adolescents!
+      The only caveat, however, is that we will unfortunately not be able to
+      provide childcare services on site, as it is a liability to do so on
+      City-owned property.
   - q: Where can I get some?
-    a: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet."
+    a: >-
+      There are many variations of passages of Lorem Ipsum available, but the
+      majority have suffered alteration in some form, by injected humour, or
+      randomised words which don't look even slightly believable. If you are
+      going to use a passage of Lorem Ipsum, you need to be sure there isn't
+      anything embarrassing hidden in the middle of text. All the Lorem Ipsum
+      generators on the Internet tend to repeat predefined chunks as necessary,
+      making this the first true generator on the Internet.
