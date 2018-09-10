@@ -3,6 +3,9 @@ layout: default
 title: Submit a talk for a Breakout Session at CityCamp
 description: Have an issue on your mind you'd like to lead a discussion on? Submit it here!
 permalink: /submit-talk/
+slides:
+  heading: "Submit a Breakout Talk for CityCamp"
+  subHeading: "Imagine if residents and city leaders ever got to have a real discussion."
 ---
 {% include header.html %}
 {% include banner.html %}
