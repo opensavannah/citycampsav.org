@@ -17,9 +17,11 @@
   path: '#'
   section_id: Participate
   children:
-    - name: Submit a Talk for CityCamp
+   - name: Help plan CityCamp
       path: about/
-    - name: Vote on CityCamp Topics
+    - name: Submit a Talk for CityCamp
       path: submit-talk/
     - name: Sign up for the CityCamp Steering Committee
       path: steering-committee/
+    - name: Opt-in for budget public comment by text-message
+      path: opt-in/
