@@ -1,0 +1,37 @@
+<!-- About-us -->
+<section id="event_info" class="section-padding">
+	<div class="container">
+		<div class="section-header style2_h text-center">
+			<h2>{{site.data.about-us.sectionHeading}}</h2>
+		</div>
+		<div class="row">
+			<div class="col-md-12">
+				<center><iframe width="70%" src="{{site.data.about-us.videoUrl}}" height="400px"frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
+			</div>
+			<div class="col-md-12">
+				<h5>{{site.data.about-us.subHeading}} </h5>
+				<p>{{site.data.about-us.content}}</p>
+				<div class="fancyboxes">
+					{% for item in page.data.about-us.eventInfo %}
+						<div class="fancy_box_item">
+							<div class="fancy_box_icon">
+								<i class="fa {{item.icon}}" aria-hidden="true"></i>
+							</div>
+							<div class="fancy_box_info">
+								<p>{{item.text}}</p>
+							</div>
+						</div>
+					{% endfor %}
+				</div>
+				<div id="container">
+					<a href="#" class="btn outline-btn" data-toggle="modal" data-target="{{ site.data.about-us.btntext1Target }}">
+						{{ site.data.about-us.btntext1 }}
+					</a>
+					<a href="{{ site.data.about-us.btntext2Text }}" class="btn outline-btn">{{ site.data.about-us.btntext2 }}</a>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section>
+<!-- /About-us -->

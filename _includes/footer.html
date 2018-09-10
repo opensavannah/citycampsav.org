@@ -1,0 +1,39 @@
+{% include registration-form.html %}
+{% if page.url != "/"%}
+	{% include need-help.html %}
+{% endif %}
+<!-- Footer -->
+<footer id="footer" class="secondary-bg section-padding">
+	<div class="container">
+		{% if page.url == "/"%}
+			<div class="contact_info">
+				<a href="mailto:{{site.data.footer.email}}">{{site.data.footer.email}}}</a>
+				<h3>{{site.data.footer.contactInfo}}</h3>
+			</div>
+		{% endif %}
+		<div class="follow_us">
+			<ul>
+				{% for item in site.social %}
+					<li>
+						<a href="{{item.url}}"><i class="fa {{item.icon}}" aria-hidden="true"></i></a>
+					</li>
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="copyright_text">
+			{% if page.url == "/"%}
+				<p>&copy{{site.data.footer.copyright}}</p>
+			{% else %}
+				<p>{{site.data.footer.innerPageFooter}}</p>
+				<p><a href="{{site.data.footer.gitHuburl}}">Fork this site on GitHub.</a> > </p>
+			{% endif %}
+		</div>
+	</div>
+</footer>
+<!-- /Footer -->
+
+
+<!-- /Footer -->
+{% include js.html %}
+</body>
+</html>

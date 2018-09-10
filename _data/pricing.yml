@@ -1,0 +1,57 @@
+sectionHeading: "Sponsorship Packages"
+desc: "CityCampSAV and Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer"
+pricing:
+  - icon: assets/images/price_icon1.png
+    price: "$0"
+    btnText: "Register Today"
+    btnTarget: "#registration_form"
+    priceDesc: "Nonprofit/Community Org. Partnership"
+    priceList:
+      - icon: fa-check
+        text: Spot on Planning Committee
+      - icon: fa-check
+        text: Logo on Website
+      - icon: fa-check
+        text: Logo on Brochure
+  - icon: assets/images/price_icon2.png
+    price: "$250 (or in-kind equivalent)"
+    btnText: "Register Today"
+    btnTarget: "#registration_form"
+    priceDesc: "Civic Steward Sponsor"
+    priceList:
+      - icon: fa-check
+        text: Special Badge
+      - icon: fa-check
+        text: Shoutouts via social media.
+      - icon: fa-check
+        text: Logo on website, banner, slides.
+      - icon: fa-check
+        text: Regular Badge
+  - icon: assets/images/price_icon1.png
+    price: "$150"
+    btnText: "Register Today"
+    btnTarget: "#registration_form"
+    priceDesc: "Basic Pass"
+    priceList:
+      - icon: fa-check
+        text: Conference Tickets
+      - icon: fa-check
+        text: Free Lunch And Coffee
+      - icon: fa-close
+        text: Certificate
+      - icon: fa-close
+        text: Regular Badge
+  - icon: assets/images/price_icon2.png
+    price: "$250"
+    btnText: "Register Today"
+    btnTarget: "#registration_form"
+    priceDesc: "Standard Pass"
+    priceList:
+      - icon: fa-check
+        text: Conference Tickets
+      - icon: fa-check
+        text: Free Lunch And Coffee
+      - icon: fa-check
+        text: Certificate
+      - icon: fa-check
+        text: Regular Badge

@@ -1920,6 +1920,7 @@ label.error {
   display:table;
   width:100%;
   overflow:hidden;
+  margin-bottom:30px;
 }
 .plan_icons {
 	float:left;

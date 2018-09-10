@@ -1,0 +1,32 @@
+{% if page.url == "/"%}<!-- Banner -->
+<section id="banner" class="intro_wrap parallex-bg">
+	<div class="owl-carousel owl-theme">
+		{% for slide in page.slides.image %}
+			<div class="item" style="background-image:url({{slide.bg}})"></div>
+        {% endfor %}
+	</div>
+	<div class="container">
+		<div class="intro_wrap intro_text div_zindex white-text">
+			<h2>{{page.slides.heading}}</h2>
+			<h3>{{page.slides.subHeading}}</h3>
+			<a href="#" class="btn btn-primary btn-lg" data-toggle="modal" data-target="{{page.slides.button.target}}">{{page.slides.button.text}}</a>
+		</div>
+	</div>
+	<div class="dark-overlay"></div>
+</section>
+<!-- /Banner -->
+{% else %}
+<!-- Banner -->
+<section id="inner_banner" class="parallex-bg section-padding">
+	<div class="container">
+    	<div class="white-text div_zindex text-center">
+			<h1>{{page.slides.heading}}</h1>
+			<h5>{{page.slides.subHeading}}</h5>
+        </div>
+    </div>
+    <div class="dark-overlay"></div>
+</section>
+<!-- /Banner -->
+{% endif %}
+
+

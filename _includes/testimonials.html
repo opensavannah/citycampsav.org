@@ -1,0 +1,28 @@
+<!-- Testimonials -->
+<section id="testimonials" class="section-padding parallex-bg">
+	<div class="container">
+		<div class="section-header style2_h div_zindex white-text text-center">
+			<h2>{{site.data.testimonials.sectionHeading}}</h2>
+			<p>{{site.data.testimonials.desc}}</p>
+		</div>
+
+		<div id="event_testimonials">
+			<div class="owl-carousel owl-theme">
+				{% for item in site.data.testimonials.items %}
+					<div class="item">
+						<div class="testimonials_header">
+							<div class="testimonials_img">
+								<img src="{{ item.image }}" alt="image">
+							</div>
+							<h6>{{ item.name }}</h6>
+						</div>
+						<p>{{ item.comments }}</p>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+
+	</div>
+	<div class="dark-overlay"></div>
+</section>
+<!-- /Testimonials -->

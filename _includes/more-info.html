@@ -1,0 +1,21 @@
+<!-- More-info -->
+<section id="more_info" class="section-padding parallex-bg">
+	<div class="container">
+		<div class="row">
+			{% for info in site.data.more-info %}
+				<div class="col-md-4">
+					<div class="info_wrap div_zindex">
+						<i class="fa {{ info.icon }}" aria-hidden="true"></i>
+						<br</br>
+						<br>
+						<h4>{{ info.heading }}</h4>
+						<p>{{ info.desc }}</p>
+					</div>
+				</div>
+			{% endfor %}
+		
+		</div>
+	</div>
+	<div class="dark-overlay"></div>
+</section>
+<!-- /More-info -->

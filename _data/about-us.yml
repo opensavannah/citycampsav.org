@@ -1,0 +1,16 @@
+sectionHeading: "What is CityCampSavannah?"
+videoUrl: "https://www.youtube.com/embed/K1qNeK0U-zQ"
+subHeading: "Learn, listen, let your voice be heard,"
+content: >  
+        "Organized by and for resident volunteers of OpenSavannah working in equal collaboration with public servants, CityCamp aims to bring together civic leaders, concerned citizens, elected officials, journalists, nonprofits, business leaders, youth, everyday residents, and all of Savannah's collective action for a day of solutions-building to answer the underlying question:<em>"What do we want to create together for the future of our city?"</em>"
+eventInfo:
+  - icon: fa-microphone
+    text: "12 lightning talks & 4 breakout sessions"
+  - icon: fa-ticket
+    text: "250 Spots"
+  - icon: fa-calendar
+    text: "1 Day Event"
+btntext1: "Register Today"  
+btntext1Target: "#registration_form"
+btntext2: "Lead a Breakout Session"  
+btntext2Text: "/host-session"

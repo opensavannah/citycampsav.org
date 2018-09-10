@@ -1,0 +1,12 @@
+sectionHeading: "Speakers/Panelists"
+desc: "A broad cross-sector of the Savannah community will be planning and participating."
+items:
+  - image: assets/images/400x400.jpg
+    name: "Melissa Carter"
+    comments: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a typespecimen book. It has survived not only five centuries."
+  - image: assets/images/400x400.jpg
+    name: "Terri-Thornton Davis"
+    comments: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries."
+  - image: assets/images/400x400.jpg
+    name: "James Wagner"
+    comments: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries."

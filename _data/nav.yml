@@ -1,0 +1,21 @@
+- name: Home
+  path: "#banner"
+  section_id: home
+- name: About
+  path: "#event_info"
+  section_id: about
+- name: Agenda
+  path: "#schedule"
+  section_id: agenda
+- name: Participate
+  path: "#schedule"
+  section_id: Participate
+- name: Sponsor
+  path: "#contact_us"
+  section_id: sponsor
+- name: Pages
+  path: "#"
+  section_id: Participate
+  children:
+    - name: About
+      path: about/

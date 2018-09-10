@@ -1,0 +1,13 @@
+<!-- Sponsors -->
+    <section id="sponsors">
+        <div class="container">
+            <ul>
+				{% for item in site.data.sponsors %}		
+                 <li>
+                    <a href="{{item.link}}"><img src="{{item.image}}" alt="image"></a>
+                </li>
+				{% endfor %}
+            </ul>
+        </div>
+    </section>
+    <!-- /Sponsors -->

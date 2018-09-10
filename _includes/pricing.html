@@ -1,0 +1,33 @@
+<!-- Pricing -->
+<section id="pricing" class="section-padding">
+	<div class="container">
+		<div class="section-header style2_h text-center">
+			<h2>{{site.data.pricing.sectionHeading}} </h2>
+			<p>{{site.data.pricing.desc}}  </p>
+		</div>
+		<div class="row">
+			{% for item in site.data.pricing.pricing %}		
+				<div class="col-md-6">
+					<div class="pricing_table_vertical">
+						<div class="plan_icons">
+							<div class="icon_div">
+								<img src="{{item.icon}}" alt="image">
+							</div>
+							<p class="price">{{item.price}}</p>
+						</div>
+						<div class="plan_info">
+							<h5>{{item.priceDesc}}</h5>
+							<ul>
+								{% for list in item.priceList %}		
+									<li><i class="fa {{ list.icon }}" aria-hidden="true"></i> {{ list.text }} </li>
+								{% endfor %}
+							</ul>
+							<a href="#" class="btn btn-sm" data-toggle="modal" data-target="{{item.btnTarget}}">{{item.btnText}}</a>
+						</div>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
+	</div>
+</section>
+<!-- /Pricing -->
