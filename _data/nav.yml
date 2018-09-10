@@ -19,5 +19,5 @@
   children:
     - name: About
       path: about/
-    - name: Submit a Session Talk
+    - name: Submit Talk
       path:
