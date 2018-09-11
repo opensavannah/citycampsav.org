@@ -20,7 +20,7 @@
     - name: Pitch a Session
       path: https://airtable.com/shrqhWkruUE3dfxg1
     - name: Join the Steering Committee
-      path: steering-committee/
+      path: join-committee/
     - name: Volunteer for Event
       path: volunteer/
     - name: Opt-in for budget public comment by text-message
