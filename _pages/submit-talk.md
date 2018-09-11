@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Submit a talk for a Breakout Session at CityCamp
-description: Have an issue on your mind you'd like to lead a discussion on? Submit it here!
+title: Join the CityCamp Steering Committee
+description: Take part in the oversight of the event and feedback period
 permalink: /join-committee/
 ---
 {% include header.html %}
