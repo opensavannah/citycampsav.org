@@ -18,10 +18,8 @@
   section_id: Participate
   children:
     - name: Pitch a Session
-      path: https://airtable.com/shrqhWkruUE3dfxg1
+      path: submit-talk/
     - name: Join the Steering Committee
       path: join-committee/
     - name: Volunteer for Event
       path: volunteer/
-    - name: Opt-in for budget public comment by text-message
-      path: opt-in/
