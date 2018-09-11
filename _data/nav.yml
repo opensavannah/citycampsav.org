@@ -18,7 +18,7 @@
   section_id: Participate
   children:
     - name: Pitch a Session
-      path: submit-talk/
+      path: https://airtable.com/shrqhWkruUE3dfxg1
     - name: Join the Steering Committee
       path: steering-committee/
     - name: Volunteer for Event
