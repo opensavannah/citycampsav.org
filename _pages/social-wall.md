@@ -4,8 +4,8 @@ title: Join the CityCamp Steering Committee
 description: Take part in the oversight of the event and feedback period
 permalink: /social-wall/
 slides:
-  heading: "Have a say in how CityCamp is governed"
-  subHeading: "Volunteer to join the Steering Commmittee"
+  heading: "Share your #citycampsav ideas and thoughts"
+  subHeading: "Use the hashtag 'citycampsav' on Twitter, Facebook, or Instagram."
 ---
 {% include header.html %}
 {% include banner.html %}
