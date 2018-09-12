@@ -2,7 +2,7 @@
 layout: default
 title: Join the CityCamp Steering Committee
 description: Take part in the oversight of the event and feedback period
-permalink: /join-committee/
+permalink: /social-wall/
 slides:
   heading: "Have a say in how CityCamp is governed"
   subHeading: "Volunteer to join the Steering Commmittee"
