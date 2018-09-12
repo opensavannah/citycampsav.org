@@ -21,7 +21,7 @@ slides:
 
 <p>All breakout sessions <em>must</em> adhere to the CityCamp <a href="https://www.notion.so/citycampsav/Full-Official-Rules-of-Engagement-33710a6c3b4e4eb3a2a866030c1cd73a">Rules of Engagement</a> and agree to abide by the OpenSavannah <a href="https://opensavannah.org/code-of-conduct">Code of Conduct</a> in order to be considered for acceptance.</p>
 
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrqeUpJyWGpcXU9e?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="887" style="background: transparent; border: 0px solid #ccc;"></iframe>
+<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrqhWkruUE3dfxg1?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="2058" style="background: transparent; border: 0px solid #ccc;"></iframe>
 </div>
 </div>
 </div>
