@@ -2,7 +2,7 @@
 layout: default
 title: Submit a talk for a Breakout Session at CityCamp
 description: Have an issue on your mind you'd like to lead a discussion on? Submit it here!
-permalink: /submit-talk/
+permalink: /volunteer/
 slides:
   heading: "Volunteer to join the CityCamp planning team"
   subHeading: "Do your part to spur local civic renewal."
