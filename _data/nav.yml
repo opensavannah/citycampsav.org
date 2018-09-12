@@ -23,3 +23,5 @@
       path: join-committee/
     - name: Volunteer for Event
       path: volunteer/
+    - name: Social Wall
+      path: social-wall/
