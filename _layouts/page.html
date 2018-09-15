@@ -1,8 +1,10 @@
+{% include relBase.html %}
 {% include head.html %}
-
-<div class="section inner-page-section ">
-        	<div class="container max innerpage-container {% if page.url !=community.html %} faq {% endif %}">
-	{{content}}
-</div>
-</div>
+{% include header.html %}
+{% include banner.html %}
+<section class="section-padding">
+	<div class="container">
+		{{content}}
+	</div>
+</section>
 {% include footer.html %}
