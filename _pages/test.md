@@ -7,7 +7,7 @@ section_id: rules
 permalink: /test/
 slides:
   heading: Rules of Engagement
-  subHeading: citycamp patterns and anti-patterns
+  subHeading: citycamp ⚖️ breakout sessions and lightning talks
 ---
 
 # Full Official Rules of Engagement
