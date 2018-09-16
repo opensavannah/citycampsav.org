@@ -10,7 +10,7 @@
 - name: Sponsor
   path: '#pricing'
   section_id: sponsor
-- name: How to Get Involved
+- name: Lead Talk
   path: '/about/'
   section_id: involved
 - name: Participate
