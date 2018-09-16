@@ -4,25 +4,31 @@ title: CityCampSavannah - Rules of Discourse
 description: Agreed-upon rules of mutual discourse.
 keywords: 'rules of engagement, unconference, citycampsavannah'
 section_id: rules
-permalink: /test/
+permalink: /rules-of-engagement/
 slides:
-  heading: Rules of Engagement
+  heading: Rules of Participation
   subHeading: citycamp ⚖️ breakout sessions and lightning talks
 ---
 
-# Full Official Rules of Engagement
+If we want to have&nbsp;*productive* civic dialogue that yields solutions and opens people's minds to new ways of thinking at citycampsavannah, it's important that we first lay clear ground rules.&nbsp;
 
-# CityCampSav ⛑ - Breakout Session ⚖️ Talks and Discussions
+## Breakout sessions & lightning talks
 
-*Breakout sessions intend to give participants more focused time to discuss issues and opportunities of most interest to them; they also provide a safe space for constructive feedback from fellow participants. A moderator will attend each breakout session to take notes and, as necessary, enforce proper decorum.*
+##### What is a 📝 'breakout session'?
 
-1. Submit your breakout talk idea using the official submission form no later than midnight Oct. 6, 2018.
+*Breakout sessions are smaller-group sessions led by a resident or city employee on a topic they'd like to discuss with the community. They're intended to give participants more focused time to discuss issues and opportunities of most interest to them; they also provide a safe space for constructive feedback from fellow participants. A moderator will attend each breakout session to take notes and, as necessary, enforce proper decorum.*
 
-2. If your topic adheres to the guidelines appropriately, it will be posted for the public to vote up beginning Oct. 9, 2018 and lasting through 5 p.m. Oct. 12, 2018
+1. Submit your breakout talk idea using [the official submission form](/submit-talk/){: target="_blank"} no later than midnight Oct. 15, 2018.
+
+2. If your topic adheres to the guidelines below, it will be posted for the public to vote on beginning Oct. 16, 2018 and lasting through 5 p.m. Oct. 19, 2018.
+
+##### What is a lightning ⚡️ talk?
+
+A 'lightning talk' refers to a short, timed, off-the-cuff talk on the main stage in which the participant delivering the talk make a persuasive case in less than four (4) minutes, with two (2) additional minutes set aside for questions from the audience. Lightning talks may be suggested in advance on the ideas board, but must be officially submitted at CityCamp in the morning by posting the topic to the Lightning Talk Wall. Fellow participants will use dot-stickers to cast their votes for their preferred topics.
 
 ---
 
-## **Highly Encouraged Topics** 🎉
+### **Highly Encouraged Topics** 🎉
 
 * A novel or innovative approach to city allocation of funds that provides an equal or higher level or quality of service delivery for the same or less cost.
 
@@ -50,15 +56,15 @@ slides:
 
 * Topics representing or from a middle- or high-school age student in Chatham County.
 
-## **Allowed Topics** 🆗
+### **Allowed Topics** 🆗
 
 * Topics that may require a future citywide referendum to make possible but that (a) have a logical and mathematically viable basis to discuss or (b) address system-wide logistical issues of duplicative service delivery or silos within city government that could be eliminated in the future to maximize efficiency.
 
-* If you represent a nonprofit, you may submit a topic of relevance to your organization’s mission or vision as long as it can be tied back to benefiting the residents of the City of Savannah. You should not, however, request specific budget line items for your organization at this time.
+* If you represent a nonprofit, you may submit a topic of relevance to your organization’s mission or vision as long as it can be tied back to benefiting the residents of the City of Savannah. **You should not, however, request specific budget line items for your organization at this time.**
 
 * Topics concerning an existing area or potential new area of funding you believe should be made a priority or be removed as a top priority in the city’s 2019 municipal budget considerations – so long as you are open to civil dialogue with residents who may disagree.
 
-## **Not allowed! ❌**
+### **Not allowed! ❌**
 
 * Topics that advance the interests of a private, for-profit business and not the general civic good.
 
@@ -78,4 +84,4 @@ slides:
 
 **NOTE**: *Topics that violate any of the `Not Allowed` guidelines will not be accepted to the topic roster; any submissions that may potentially violate these guidelines will be replied to by email by an OpenSavannah peer resident to allow the submitting party the opportunity to respond and/or withdraw the topic.*
 
-Guidelines drafted by OpenSavannah volunteers and approved by City of Savannah Office of Budget Management on: **\_\_***\_\_* 💪🖥🇺🇸 -
+Guidelines drafted by OpenSavannah volunteers.
