@@ -23,5 +23,7 @@
       path: join-committee/
     - name: Volunteer for Event
       path: volunteer/
+    - name: Rules of Participation
+      path: rules-of-engagement/
     - name: Social Wall
       path: social-wall/
