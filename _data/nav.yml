@@ -10,6 +10,9 @@
 - name: Sponsor
   path: '#pricing'
   section_id: sponsor
+- name: How to Get Involved
+  path: '/about/'
+  section_id: sponsor
 - name: Participate
   path: '#'
   section_id: Participate
