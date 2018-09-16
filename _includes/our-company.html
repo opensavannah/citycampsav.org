@@ -1,0 +1,24 @@
+
+<!-- Our-Company -->
+<section class="section-padding">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-md-6">
+        		<h2>{{site.data.our-company.sectionHeading}}</h2>
+                {{site.data.our-company.desc}}  
+            </div>
+            
+            <div class="col-md-6">
+				{% for item in site.data.our-company.aboutRight }}%}
+            	<div class="text_widgets">
+                	<p class="custom_heading_n">{{item.headingNumber }}</p>
+                    <h5>{{item.heading }}</h5>
+                    <p>{{item.text }}</p>
+                </div>
+				{% endfor %}
+            </div>
+        </div>
+    	
+    </div>
+</section>
+<!-- /Our-Company -->
