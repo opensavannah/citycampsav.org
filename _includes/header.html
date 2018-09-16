@@ -1,0 +1,58 @@
+ <!-- Header -->
+<header id="header" class="nav-stacked" data-spy="affix" data-offset-top="15">
+	<!-- Navigation -->
+	<nav id="navigation_bar" class="navbar navbar-default">
+		<div class="container">
+			<div class="navbar-header">
+				<div class="logo">
+					<a href="/"><img src="/assets/images/logo.png" alt="image" /></a>
+				</div>
+				<!-- /Logo -->
+				<button id="menu_slide" data-target="#navigation" aria-expanded="false" data-toggle="collapse" class="navbar-toggle collapsed" type="button"> 
+					<span class="sr-only">Toggle navigation</span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span> 
+					<span class="icon-bar"></span> 
+				</button>
+			</div>
+			<div class="follow_us">
+				<ul>
+					{% for item in site.social %}
+						<li>
+							<a href="{{item.url}}"><i class="fa {{item.icon}}" aria-hidden="true"></i></a>
+						</li>
+					{% endfor %}
+				</ul>
+			</div>
+
+			<div class="collapse navbar-collapse" id="navigation">
+				<ul class="nav navbar-nav">
+					 {% for item in site.data.nav %}
+					  
+
+					  {% if item.children %}
+						<li class="dropdown {{active_class}}">
+						 
+						  <a href="{{site.url}}/{{ item.path }}" class="dropdown-toggle" data-toggle="dropdown">{{ item.name }} <b class="caret"></b></a>
+						  <ul class='dropdown-menu'>
+							{% for child in item.children %}
+							  <li>
+								<a href="{{site.url}}/{{ child.path }}">{{ child.name }}</a>
+							  </li>
+							{% endfor %}
+						  </ul>
+						</li>
+					  {% else %}
+						<li class="{{active_class}}">
+						  <a href="{{site.url}}/{{ item.path }}" class="js-target-scroll">{{ item.name }}</a>
+						</li>
+					  {% endif %}
+					{% endfor %}
+		
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<!-- Navigation end -->
+</header>
+<!-- /Header -->

@@ -1,0 +1,31 @@
+<!-- FAQ -->
+<section id="faq" class="section-padding parallex-bg">
+	<div class="container">
+		<div class="section-header style2_h div_zindex white-text text-center">
+			<h2>{{site.data.faq.sectionHeading}}</h2>
+			<p>{{site.data.faq.desc}}</p>
+		</div>
+		<div class="faq_wrap div_zindex white-text">
+			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+				{% for item in site.data.faq.questionAnswer %}
+					<div class="panel panel-default">
+						<div class="panel-heading" role="tab" id="headingOne">
+							<h4 class="panel-title">
+								<a  role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{ forloop.index }}"  aria-controls="collapseOne">
+									<span class="question"><span>Q</span></span> {{ item.q }} {{}}
+								</a>
+							</h4>
+						</div>
+						<div id="collapse{{ forloop.index }}" class="panel-collapse collapse {% if  forloop.first  %} in {% endif %} "   role="tabpanel" aria-labelledby="headingOne">
+							<div class="panel-body">
+								<p>{{ item.a }}</p>
+							</div>
+						</div>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+	<div class="dark-overlay"></div>
+</section>
+<!-- /FAQ -->
