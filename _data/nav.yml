@@ -10,10 +10,7 @@
 - name: Sponsor
   path: '#pricing'
   section_id: sponsor
-- name: Volunteer
-  path: '/about/'
-  section_id: planning  
-- name: More
+- name: Participate
   path: '#'
   section_id: Participate
   children:
