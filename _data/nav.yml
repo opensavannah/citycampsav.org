@@ -12,7 +12,7 @@
   section_id: sponsor
 - name: How to Get Involved
   path: '/about/'
-  section_id: sponsor
+  section_id: involved
 - name: Participate
   path: '#'
   section_id: Participate
