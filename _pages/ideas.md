@@ -1,10 +1,10 @@
 ---
 layout: page
-title: CityCampSavannah - Rules of Discourse
-description: Agreed-upon rules of mutual discourse.
+title: CityCampSavannah - Idea Proposal Board
+description: Budgeting priorities suggestion board
 keywords: 'rules of engagement, unconference, citycampsavannah'
-section_id: rules
-permalink: /budget-priorities-propose/
+section_id: ideas
+permalink: /ideas/
 slides:
   heading: Propose Your Budget Priorities
   subHeading: citycamp ⚖️ lightning talk potential topics
@@ -15,7 +15,7 @@ slides:
 <script>
   Canny('render', {
     boardToken: '0abd95ec-bbf3-1577-6749-f134b35f1136',
-    basePath: null, // See step 2
+    basePath: '/ideas/', 
     ssoToken: null, // See step 3
   });
 </script>
