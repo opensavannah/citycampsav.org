@@ -10,13 +10,13 @@ slides:
   subHeading: citycamp ⚖️ breakout sessions and lightning talks
 ---
 
-If we want to have&nbsp;*productive* civic dialogue that yields solutions and opens people's minds to new ways of thinking at citycampsavannah, it's important that we first lay clear ground rules.&nbsp;
+If we want to have&nbsp;*productive* civic dialogue that yields solutions and opens people’s minds to new ways of thinking at citycampsavannah, it’s important that we first lay clear ground rules.&nbsp;
 
 ## Breakout sessions & lightning talks
 
-##### What is a 📝 'breakout session'?
+##### What is a 📝 ‘breakout session’?
 
-*Breakout sessions are smaller-group sessions led by a resident or city employee on a topic they'd like to discuss with the community. They're intended to give participants more focused time to discuss issues and opportunities of most interest to them; they also provide a safe space for constructive feedback from fellow participants. A moderator will attend each breakout session to take notes and, as necessary, enforce proper decorum.*
+*Breakout sessions are smaller-group sessions led by a resident or city employee on a topic they’d like to discuss with the community. They’re intended to give participants more focused time to discuss issues and opportunities of most interest to them; they also provide a safe space for constructive feedback from fellow participants. A moderator will attend each breakout session to take notes and, as necessary, enforce proper decorum.*
 
 1. Submit your breakout talk idea using [the official submission form](/submit-talk/){: target="_blank"} no later than midnight Oct. 15, 2018.
 
@@ -24,7 +24,7 @@ If we want to have&nbsp;*productive* civic dialogue that yields solutions and op
 
 ##### What is a lightning ⚡️ talk?
 
-A 'lightning talk' refers to a short, timed, off-the-cuff talk on the main stage in which the participant delivering the talk make a persuasive case in less than four (4) minutes, with two (2) additional minutes set aside for questions from the audience. Lightning talks may be suggested in advance on the ideas board, but must be officially submitted at CityCamp in the morning by posting the topic to the Lightning Talk Wall. Fellow participants will use dot-stickers to cast their votes for their preferred topics.
+*A ‘[lightning talk’](https://en.wikipedia.org/wiki/Lightning_talk){: target="_blank"} refers to a short, timed, off-the-cuff talk on the main stage in which the participant delivering the talk make a persuasive case in less than four (4) minutes, with two (2) additional minutes set aside for questions from the audience. Lightning talks may be suggested in advance on the ideas board, but must be officially submitted at CityCamp in the morning by posting the topic to the Lightning Talk Wall. Fellow participants will use dot-stickers to cast their votes for their preferred topics.*
 
 ---
 
@@ -34,7 +34,7 @@ A 'lightning talk' refers to a short, timed, off-the-cuff talk on the main stage
 
 * A novel or innovative potential revenue stream or reallocation of existing revenue streams that falls within the powers of a majority vote by City Council to enact.
 
-* Topics that address strategies for improving the efficiency of municipal operations; i.e. *modular procurement*, *innovation teams*, *open data policies*, *public feedback strategies*,
+* Topics that address strategies for improving the efficiency or equity of municipal operations; i.e. [*modular procurement*](https://modularcontracting.18f.gov/), [*innovation teams*,](https://www.bloomberg.org/program/government-innovation/innovation-teams/) [*open data policies*](https://opendatapolicyhub.sunlightfoundation.com/), *public feedback strategies*,
 
 * Topics that propose novel or innovative (ideally cost-saving) ways of enhancing quality of life for *all* Savannah residents, particularly residents most in need of assistance.
 
@@ -70,7 +70,7 @@ A 'lightning talk' refers to a short, timed, off-the-cuff talk on the main stage
 
 * Topics that focus solely on past squabbles and offer no solutions for how to prevent future similar disagreements.
 
-* Topics that violate the OpenSavannah Code of Conduct or the OpenSavannah Diversity Statement.
+* Topics that violate the OpenSavannah [Code of Conduct](https://opensavannah.org/code-of-conduct){: target="_blank"} or the OpenSavannah [Diversity Statement](https://opensavannah.org/diversity-statement){: target="_blank"}.
 
 * Topics without a clear and direct action component or feasible step forward for Savannah’s residents and civil servants; (i.e. no topics should address issues outside the scope of municipal powers such as: *“What should the Federal Government Should Do About Immigration?”*)
 
@@ -78,7 +78,7 @@ A 'lightning talk' refers to a short, timed, off-the-cuff talk on the main stage
 
 * Topics with an overtly political motive or that endorse or persuade residents to vote for or against any one candidate or candidates in future elections;
 
-* Topics that aim solely to make ad hominem attacks on any person or persons, including civil servants, public figures,
+* Topics that aim solely to make ad hominem attacks on any person or persons, including civil servants, public figures.
 
 ---
 
