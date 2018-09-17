@@ -15,9 +15,7 @@ slides:
 <script>
   Canny('render', {
     boardToken: '0abd95ec-bbf3-1577-6749-f134b35f1136',
-    basePath: '/ideas', 
+    basePath: null, 
     ssoToken: null, // See step 3
   });
 </script>
-
-<script src="//openvoyce.com/products/your-2019-savannah-budgeting-priority-ideas/script.js"></script>
