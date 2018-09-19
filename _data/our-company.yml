@@ -49,7 +49,7 @@ aboutRight:
     heading: Lead a Breakout Session
     text: >-
       Be on the CityCamp agenda. The deadline to submit your breakout session
-      talk is Oct. 10, 2018. <strong><a href='submit-talk/'>Pitch to lead a
+      talk is Oct. 10, 2018. <strong><a href='https://citycampsav.org/submit-talk/'>Pitch to lead a
       breakout session today.</a></strong>
   - headingNumber: '03'
     heading: Pitch a Lightning Talk
@@ -58,7 +58,7 @@ aboutRight:
       talk on a topic of budgeting concern for 2019. Lightning talks should be
       planned somewhat in advance, but need not require any major preparation.
       You will propose your talk after the morning keynote, and voting will take
-      place at lunch. <a href="/ideas">Submit/Vote on Lightning Talk Topics in Advance</a>
+      place at lunch. <a href="https://citycampsav.org/ideas/'">Submit/Vote on Lightning Talk Topics in Advance</a>
   - headingNumber: '04'
     heading: Opt-In to Receive Interactive Budget Public Comment Surveys via Text
       Message
