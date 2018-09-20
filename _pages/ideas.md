@@ -4,7 +4,7 @@ title: CityCampSavannah - Idea Proposal Board
 description: Budgeting priorities suggestion board
 keywords: 'rules of engagement, unconference, citycampsavannah'
 section_id: ideas
-permalink: /ideas
+permalink: /ideas/
 slides:
   heading: Propose Your Budget Priorities
   subHeading: citycamp ⚖️ lightning talk potential topics
