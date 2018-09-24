@@ -3,15 +3,11 @@ layout: page
 title: CityCampSavannah - Privacy Policy
 description: Agreed-upon rules of mutual discourse.
 keywords: 'rules of engagement, unconference, citycampsavannah'
-section_id:
-permalink: /privacy-policy
+section_id: partners
+permalink: /partners
 slides:
-  heading: Privacy Policy
-  subHeading: citycampsavannah
+  heading: CityCamp Partnering Organizations
+  subHeading: Friends of CityCamp
 ---
 
-<!-- Termly Tracking Code -->
-
-<iframe width="100%" style="height: 95vh" src="https://app.termly.io/document/privacy-policy/7b7babae-3919-4de4-919b-185831b6f379" frameborder="0" allowfullscreen="">
-  <p>Your browser does not support iframes.</p>
-</iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr9Gg2MNpKsyIAR9?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe><iframe class="airtable-embed" src="https://airtable.com/embed/shr9Gg2MNpKsyIAR9?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
