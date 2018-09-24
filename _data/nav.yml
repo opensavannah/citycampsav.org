@@ -20,8 +20,8 @@
       path: view-committee/
     - name: Partnering Organizations
       path: partners/
-    - name: OpenSavannah's Role
-      path: opensavannah/
+    - name: Submit/View/Vote on Budget Priorities
+      path: ideas/
     - name: Social Wall
       path: social-wall/
 - name: Participate
