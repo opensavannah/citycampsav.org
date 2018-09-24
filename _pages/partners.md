@@ -4,7 +4,7 @@ title: CityCampSavannah - Privacy Policy
 description: Agreed-upon rules of mutual discourse.
 keywords: 'rules of engagement, unconference, citycampsavannah'
 section_id: partners
-permalink: /partners
+permalink: /partners/
 slides:
   heading: CityCamp Partnering Organizations
   subHeading: Friends of CityCamp
