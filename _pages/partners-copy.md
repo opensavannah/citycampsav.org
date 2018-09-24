@@ -4,7 +4,7 @@ title: CityCampSavannah - Privacy Policy
 description: Agreed-upon rules of mutual discourse.
 keywords: 'rules of engagement, unconference, citycampsavannah'
 section_id: steeering
-permalink: /steering-committee/
+permalink: /view-committee/
 slides:
   heading: CityCamp Steering Committee
   subHeading: 
