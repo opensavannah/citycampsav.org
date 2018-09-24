@@ -11,8 +11,19 @@
   path: '#pricing'
   section_id: sponsor
 - name: How it Works
-  path: '/about/'
-  section_id: involved
+  path: '#'
+  section_id: How it Works
+  children:
+    - name: Underlying Vision
+      path: about/
+    - name: Steering Committee
+      path: view-committee/
+    - name: Partnering Organizations
+      path: partners/
+    - name: OpenSavannah's Role
+      path: opensavannah/
+    - name: Social Wall
+      path: social-wall/
 - name: Participate
   path: '#'
   section_id: Participate
@@ -25,5 +36,5 @@
       path: volunteer/
     - name: Rules of Participation
       path: rules-of-engagement/
-    - name: Social Wall
-      path: social-wall/
+    - name: Civic Food Festival Application
+      path: civic-food-festival-app/
