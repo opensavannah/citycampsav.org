@@ -1,2 +1,6 @@
 btntext1: "Explore Budget"  
 btntext1Target: "http://openbudgetsav.org"
+btntext2: "Be on the agenda"  
+btntext2Target: "/about"
+btntext2: "Volunteeer"  
+btntext2Target: "/volunteer"
