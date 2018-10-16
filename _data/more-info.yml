@@ -1,7 +1,11 @@
 - icon: fa-money
   heading: "Learn how the city budget works"
   desc: >
-    At 266 pages, the city's <a href="https://www.savannahga.gov/DocumentCenter/View/14317/2018-Adopted-Budgetrevised?bidId=">annual municipal budget</a> isn't exactly easy to understand. Luckily, Melissa Carter, Director of City of Savannah's Budget Management Department, will host a "Budget 101" workshop distilling the allocation process for us in <a href="http://plainlanguage.gov">plain language.</a>. You'll also have a chance to pose new ideas to the entirety of City Council and at least one representative from all of Savannah's various departments.<a href="http://openbudgetsav.org" class="btn outline-btn">Explore Budget</a>
+    At 266 pages, the city's <a href="https://www.savannahga.gov/DocumentCenter/View/14317/2018-Adopted-Budgetrevised?bidId=">annual municipal budget</a> isn't exactly easy to understand. Luckily, Melissa Carter, Director of City of Savannah's Budget Management Department, will host a "Budget 101" workshop distilling the allocation process for us in <a href="http://plainlanguage.gov">plain language./a>. You'll also have a chance to pose new ideas to the entirety of City Council and at least one representative from all of Savannah's various departments.<div id="container">
+					<a href="#" class="btn outline-btn" data-toggle="modal" data-target="{{ site.data.about-us.btntext1Target }}">
+						{{ site.data.about-us.btntext1 }}
+					</a>
+				</div>
 - icon: fa-rocket
   heading: "Let your voice be heard"
   desc: >
