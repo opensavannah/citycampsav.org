@@ -2042,6 +2042,9 @@ label.error {
   padding: 50px 30px;
   text-align: center;
 }
+.graphjs-box {
+	margin:10px auto;
+}
 
 
 
